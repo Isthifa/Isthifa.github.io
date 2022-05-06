@@ -498,7 +498,7 @@ body.active { overflow: hidden; }
 \*-----------------------------------*/
 
 .hero {
-  background: url("assets/images/wallpapersden.com_underwater-2020-movie_5120x2880.jpg") no-repeat;
+  background: url("../images/wallpapersden.com_underwater-2020-movie_5120x2880.jpg") no-repeat;
   background-size: cover;
   background-position: center;
   min-height: 750px;
